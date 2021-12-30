@@ -13,9 +13,6 @@
 [submodule "third_party/catch"]
 	path = third_party/catch
 	url = https://github.com/catchorg/Catch2.git
-[submodule "third_party/premake-core"]
-	path = third_party/premake-core
-url=https://github.com/ganyao114/premake-core.git
 [submodule "third_party/snappy"]
 	path = third_party/snappy
 	url = https://github.com/xenia-project/snappy.git
@@ -76,3 +73,6 @@ url=https://github.com/ganyao114/premake-core.git
 [submodule "third_party/premake-androidndk"]
 	path = third_party/premake-androidndk
 	url = https://github.com/Triang3l/premake-androidndk.git
+[submodule "third_party/premake-core"]
+	path = third_party/premake-core
+	url = https://github.com/ganyao114/premake-core.git
